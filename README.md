@@ -61,3 +61,9 @@
 # 参考サイト
 
 http://memo.goodpatch.co/2016/07/beautiful-commits-with-emojis/
+
+https://gist.github.com/p1ch-jp/2912dc157b53449f7d1b
+
+https://github.com/leereilly/emoji
+
+http://qiita.com/kasaharu/items/cdb587d4d27d7608b063
